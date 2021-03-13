@@ -1,13 +1,14 @@
 name = "Sodium"
-filename = "sodium.jar"
-side = "client"
-
-[option]
-optional = true
-description = "Framerate improvements, only use if needed. must include Indium as well"
-default = false
+filename = "sodium-fabric-mc1.16.3-0.1.0.jar"
+side = "both"
 
 [download]
-url = "https://github.com/The-Tiny-Taters/TTTM-AOF/raw/main/mods/jars/sodium.jar"
-hash-format = "sha256"
-hash = "89927E2B17562AC207F76D38DDB9FA9ADF0FC47BB088B64B2B07680688260274"
+url = "https://edge.forgecdn.net/files/3067/101/sodium-fabric-mc1.16.3-0.1.0.jar"
+hash-format = "murmur2"
+hash = "1976364676"
+
+[update]
+[update.curseforge]
+file-id = 3067101
+project-id = 394468
+release-channel = "beta"
