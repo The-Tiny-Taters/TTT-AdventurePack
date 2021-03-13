@@ -15,3 +15,5 @@ mods/more-tooltips.toml
 # Exclude inventory hud, "[]" hashing in-correct
 mods/inventory-hud-forge.toml
 config/inventoryhud.json
+
+config/DynocapSerialization/test#1.dynobin

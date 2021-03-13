@@ -457,10 +457,6 @@ file = "config/DynocapSerialization/rusty cap.dynobin"
 hash = "f714f01e43f2f28d798d019553249f3971d37ba86faa5eb77fe61b3ee6ec01a7"
 
 [[files]]
-file = "config/DynocapSerialization/test#1.dynobin"
-hash = "98bd0c207926d120f6cbab006ff3b3fb00ba308183bafab4f644f4ee202bc304"
-
-[[files]]
 file = "config/HeadshotConfig.json5"
 hash = "c5b3b31f9c7f1e235e2c384f15938cbee8362ad6c80a98a3cd0f74f89d9c7201"
 
