@@ -609,14 +609,6 @@ file = "config/biome_locator.json"
 hash = "3c806d575faedd68d898a8e75cdbd793885d54696f0b2dafcd5a1e214c4c40b1"
 
 [[files]]
-file = "config/blur.json"
-hash = "0bcbd2d5d67b16be3578208367889b079f7f2a61881311a9b1af74a022376824"
-
-[[files]]
-file = "config/blur.json5"
-hash = "5c181648d42783050dd736bea7520e4398bd16f3406e2607ca56e32b01ecd56e"
-
-[[files]]
 file = "config/byg/byg-biomes.json"
 hash = "b06ab5f18e3111c329bb2811881beb79f50bf9adb681cb31dc727a46e5b5ae81"
 
@@ -6057,11 +6049,6 @@ metafile = true
 [[files]]
 file = "mods/blockus.toml"
 hash = "71cdb19082ba43cf7229ecd5088514c3d6ad5d9a4079671d63bca4d4497ef4ba"
-metafile = true
-
-[[files]]
-file = "mods/blur-fabric.toml"
-hash = "f1f0291333634ce62e45d9d5f754141d89b774952a887678f31e7584969b117e"
 metafile = true
 
 [[files]]
