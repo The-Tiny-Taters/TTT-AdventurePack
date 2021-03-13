@@ -5943,7 +5943,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedchat.toml"
-hash = "77ecc54495518268f66794dc4905e690c863f14475f6e94057f52aa76c8c5f3d"
+hash = "b2189ce292398a0184df1921110cac04d1f258280a5c7c37f60c75356f1a9819"
 metafile = true
 
 [[files]]
