@@ -1,9 +1,9 @@
-# TTTM-AOF
-The Tiny Tater Test modpack using packwiz built on-top of All of fabric 3  
+# TTT-Adventure pack
+The Tiny Tater Test modpack using packwiz built on-top of The Adventure Pack
 **Discord server:** [link](https://discord.gg/YeXshh3sKE)
 
 ## Licensing
-Permission has been obtained to use All of fabric 3 as a base for this modpack, please continue to comply with the licensing requirements for All of fabric 3 (Creative Commons Attribution-NoDerivatives 4.0 International Public). You should not share with others outside the community unless only for private use.
+Permission has been obtained to use The Adventure pack as a base for this modpack, please continue to comply with the licensing requirements for The Adventure pack (All Rights Reserved). You should not share with others outside the community unless only for private use.
 
 ## Additional mods
 key:
