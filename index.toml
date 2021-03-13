@@ -777,10 +777,6 @@ file = "config/identity.json5"
 hash = "4a15e56daa4dd11f33cad574367e8792730fc68c80302c1f86c86254557ab14d"
 
 [[files]]
-file = "config/inventoryhud.json"
-hash = "2779cf7daae5839d98b7392db9ecf3ad6e77afe0ae2427a1beffaa140d76816e"
-
-[[files]]
 file = "config/itemflexer.mcfg"
 hash = "0d6eb1d6e13cf40101af4e3d872be911238ed081e8f6ecabf3222df8da761b37"
 
@@ -6360,11 +6356,6 @@ metafile = true
 [[files]]
 file = "mods/indium.toml"
 hash = "a26234f77b223145a1fc98416a49d6ce1e7a9f2793788604a9103abb5e19506c"
-metafile = true
-
-[[files]]
-file = "mods/inventory-hud-forge.toml"
-hash = "e63d6d04492604090b15c0bf9095f25a8d6cbc2e75eb682a315193ba12c52e9c"
 metafile = true
 
 [[files]]

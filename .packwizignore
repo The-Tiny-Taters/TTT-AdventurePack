@@ -11,3 +11,7 @@ ap.zip
 # Exclude more tooltips, "[]" hashing is in-correct 
 config/more_tooltips.json
 mods/more-tooltips.toml
+
+# Exclude inventory hud, "[]" hashing in-correct
+mods/inventory-hud-forge.toml
+config/inventoryhud.json
