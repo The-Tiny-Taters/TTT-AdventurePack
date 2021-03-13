@@ -6612,11 +6612,6 @@ hash = "544c3f4281581d40ddb2b334984898e53bef6e6d2ecf46e59a173cbced9e59bc"
 metafile = true
 
 [[files]]
-file = "mods/toms-server-utils.toml"
-hash = "a6dc55f25cfbf9754f995952d74d9694bd604f90dac4465a7cc121535c19a7d2"
-metafile = true
-
-[[files]]
 file = "mods/transfer-chest.toml"
 hash = "9de0292d67f779fdef71e00966307d519ecc87c7ccb584f28faffd4dcdd8cdae"
 metafile = true
