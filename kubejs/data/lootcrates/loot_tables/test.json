@@ -1,0 +1,14 @@
+{
+  "type": "lootcrates:common_chest_loot_crate",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stone"
+        }
+      ]
+    }
+  ]
+}

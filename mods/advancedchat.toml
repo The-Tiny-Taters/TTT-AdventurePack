@@ -1,0 +1,14 @@
+name = "AdvancedChat"
+filename = "AdvancedChat-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3209/903/AdvancedChat-2.1.1.jar"
+hash-format = "murmur2"
+hash = "671606733"
+
+[update]
+[update.curseforge]
+file-id = 3209903
+project-id = 387825
+release-channel = "beta"

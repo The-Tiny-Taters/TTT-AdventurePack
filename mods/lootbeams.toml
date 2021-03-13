@@ -1,0 +1,14 @@
+name = "lootbeams"
+filename = "lootbeams-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3156/613/lootbeams-1.0.2.jar"
+hash-format = "murmur2"
+hash = "1379519443"
+
+[update]
+[update.curseforge]
+file-id = 3156613
+project-id = 430746
+release-channel = "beta"

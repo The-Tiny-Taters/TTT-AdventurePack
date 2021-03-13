@@ -1,0 +1,14 @@
+name = "Heartbond [FABRIC]"
+filename = "Heartbond-1.16-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3120/329/Heartbond-1.16-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2136600299"
+
+[update]
+[update.curseforge]
+file-id = 3120329
+project-id = 421890
+release-channel = "beta"

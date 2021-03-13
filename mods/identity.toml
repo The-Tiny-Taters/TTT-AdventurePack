@@ -1,0 +1,14 @@
+name = "Identity"
+filename = "identity-1.11.8-beta-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3210/186/identity-1.11.8-beta-1.16.5.jar"
+hash-format = "murmur2"
+hash = "1380120822"
+
+[update]
+[update.curseforge]
+file-id = 3210186
+project-id = 391390
+release-channel = "beta"

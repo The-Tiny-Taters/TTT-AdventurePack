@@ -1,0 +1,14 @@
+name = "True Darkness"
+filename = "darkness-mc116-1.6.58.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3154/2/darkness-mc116-1.6.58.jar"
+hash-format = "murmur2"
+hash = "1100687025"
+
+[update]
+[update.curseforge]
+file-id = 3154002
+project-id = 337243
+release-channel = "beta"

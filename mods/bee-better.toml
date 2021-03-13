@@ -1,0 +1,14 @@
+name = "Bee Better"
+filename = "beebetter-1.8.0-1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3135/740/beebetter-1.8.0-1.16.4.jar"
+hash-format = "murmur2"
+hash = "1332520855"
+
+[update]
+[update.curseforge]
+file-id = 3135740
+project-id = 351600
+release-channel = "beta"

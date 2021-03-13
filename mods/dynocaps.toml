@@ -1,0 +1,14 @@
+name = "Dynocaps"
+filename = "Dynocaps-1.6.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3160/522/Dynocaps-1.6.13.jar"
+hash-format = "murmur2"
+hash = "4257098266"
+
+[update]
+[update.curseforge]
+file-id = 3160522
+project-id = 364507
+release-channel = "beta"

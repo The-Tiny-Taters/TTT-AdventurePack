@@ -1,0 +1,14 @@
+name = "AdventureZ"
+filename = "adventurez-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3121/114/adventurez-1.1.5.jar"
+hash-format = "murmur2"
+hash = "1556556263"
+
+[update]
+[update.curseforge]
+file-id = 3121114
+project-id = 390991
+release-channel = "beta"

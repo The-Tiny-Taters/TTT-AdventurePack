@@ -1,0 +1,14 @@
+name = "Home Camp"
+filename = "HomeCamp-1.16.4-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3131/699/HomeCamp-1.16.4-1.0.3.jar"
+hash-format = "murmur2"
+hash = "3132325567"
+
+[update]
+[update.curseforge]
+file-id = 3131699
+project-id = 406220
+release-channel = "beta"

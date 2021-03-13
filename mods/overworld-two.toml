@@ -1,0 +1,14 @@
+name = "Overworld Two"
+filename = "overworld-two-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3149/112/overworld-two-1.0.4.jar"
+hash-format = "murmur2"
+hash = "3970699539"
+
+[update]
+[update.curseforge]
+file-id = 3149112
+project-id = 401556
+release-channel = "beta"

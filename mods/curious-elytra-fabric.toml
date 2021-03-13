@@ -1,0 +1,14 @@
+name = "Curious Elytra (Fabric)"
+filename = "curiouselytra-fabric-1.1.1-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3175/797/curiouselytra-fabric-1.1.1-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2127965805"
+
+[update]
+[update.curseforge]
+file-id = 3175797
+project-id = 397903
+release-channel = "beta"

@@ -1,0 +1,14 @@
+name = "Presence Footsteps"
+filename = "PresenceFootsteps-r29+1.16.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3153/246/PresenceFootsteps-r29+1.16.4.jar"
+hash-format = "murmur2"
+hash = "3765663354"
+
+[update]
+[update.curseforge]
+file-id = 3153246
+project-id = 334259
+release-channel = "beta"

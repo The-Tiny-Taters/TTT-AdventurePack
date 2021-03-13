@@ -1,0 +1,17 @@
+{
+  "text.autoconfig.automated_crafting.title": "Configuracion de la Mesa de trabajo Automatizada",
+  "item.automated_crafting.auto_crafter": "Mesa de trabajo Automatizada",
+  "block.automated_crafting.auto_crafter": "Mesa de trabajo Automatizada",
+  "text.autoconfig.automated_crafting.option.simpleMode": "Habilitar modo simple",
+  "text.autoconfig.automated_crafting.option.simpleMode.@Tooltip": "Todos los cambios requieren un reinicio",
+  "text.autoconfig.automated_crafting.option.quasiConnectivity": "Habilitar la Casi-Conectividad",
+  "text.autoconfig.automated_crafting.option.quasiConnectivity.@Tooltip": "Todos los cambios requieren un reinicio",
+  "text.autoconfig.automated_crafting.option.redirectsRedstone": "Habilitar la redirección de polvo de Redstone",
+  "text.autoconfig.automated_crafting.option.redirectsRedstone.@Tooltip": "Todos los cambios requieren un reinicio",
+  "text.autoconfig.automated_crafting.option.craftContinuously": "Fabrica continuamente mientras está encendido",
+  "text.autoconfig.automated_crafting.option.craftContinuously.@Tooltip": "Todos los cambios requieren un reinicio",
+  "text.autoconfig.automated_crafting.option.comparatorReadsOutput": "El comparador lee 15 si la salida no está vacía",
+  "text.autoconfig.automated_crafting.option.comparatorReadsOutput.@Tooltip": "Todos los cambios requieren un reinicio",
+  "label.automated_crafting.template": "Plantilla",
+  "label.automated_crafting.input": "Entrada"
+}

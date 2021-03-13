@@ -1,0 +1,17 @@
+{
+  "text.autoconfig.automated_crafting.title": "Nastavení automatizované výroby",
+  "item.automated_crafting.auto_crafter": "Automatický pracovní stůl",
+  "block.automated_crafting.auto_crafter": "Automatický pracovní stůl",
+  "text.autoconfig.automated_crafting.option.simpleMode": "Povolit jednoduchý režim",
+  "text.autoconfig.automated_crafting.option.simpleMode.@Tooltip": "Veškeré změny vyžadují restart",
+  "text.autoconfig.automated_crafting.option.quasiConnectivity": "Povolit kvasikonektivitu",
+  "text.autoconfig.automated_crafting.option.quasiConnectivity.@Tooltip": "Veškeré změny vyžadují restart",
+  "text.autoconfig.automated_crafting.option.redirectsRedstone": "Povolit přesměrování ruditového prášku",
+  "text.autoconfig.automated_crafting.option.redirectsRedstone.@Tooltip": "Veškeré změny vyžadují restart",
+  "text.autoconfig.automated_crafting.option.craftContinuously": "Při zapojení vyrábět nepřetržitě",
+  "text.autoconfig.automated_crafting.option.craftContinuously.@Tooltip": "Veškeré změny vyžadují restart",
+  "text.autoconfig.automated_crafting.option.comparatorReadsOutput": "Pokud výstup není prázdný, porovnávač vydává signál o síle 15",
+  "text.autoconfig.automated_crafting.option.comparatorReadsOutput.@Tooltip": "Veškeré změny vyžadují restart",
+  "label.automated_crafting.template": "Předloha",
+  "label.automated_crafting.input": "Vstup"
+}

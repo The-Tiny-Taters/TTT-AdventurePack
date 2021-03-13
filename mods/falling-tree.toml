@@ -1,0 +1,14 @@
+name = "FallingTree"
+filename = "FallingTree-Fabric-1.16.5-2.10.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3207/464/FallingTree-Fabric-1.16.5-2.10.2.jar"
+hash-format = "murmur2"
+hash = "3481270875"
+
+[update]
+[update.curseforge]
+file-id = 3207464
+project-id = 349559
+release-channel = "beta"

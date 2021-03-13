@@ -1,0 +1,14 @@
+name = "Balance of Exile"
+filename = "Balance-Of-Exile-1.16.3-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3094/424/Balance-Of-Exile-1.16.3-1.0.3.jar"
+hash-format = "murmur2"
+hash = "3666238359"
+
+[update]
+[update.curseforge]
+file-id = 3094424
+project-id = 398782
+release-channel = "beta"

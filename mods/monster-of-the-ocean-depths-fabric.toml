@@ -1,0 +1,14 @@
+name = "[FABRIC] Monster Of The Ocean Depths"
+filename = "Monster-of-the-ocean-depths-3.0-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3210/242/Monster-of-the-ocean-depths-3.0-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2666204303"
+
+[update]
+[update.curseforge]
+file-id = 3210242
+project-id = 412827
+release-channel = "beta"

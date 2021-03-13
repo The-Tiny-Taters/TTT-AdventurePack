@@ -1,0 +1,14 @@
+name = "Cosmetic Armor [FABRIC]"
+filename = "cosmetic-armor-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3169/488/cosmetic-armor-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2269519572"
+
+[update]
+[update.curseforge]
+file-id = 3169488
+project-id = 436659
+release-channel = "beta"

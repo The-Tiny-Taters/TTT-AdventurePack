@@ -1,0 +1,14 @@
+name = "Anvil Fix"
+filename = "AnvilFix-1.2.1-1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3176/763/AnvilFix-1.2.1-1.16.jar"
+hash-format = "murmur2"
+hash = "3727750837"
+
+[update]
+[update.curseforge]
+file-id = 3176763
+project-id = 305480
+release-channel = "beta"

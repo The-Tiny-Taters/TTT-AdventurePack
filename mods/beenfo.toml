@@ -1,0 +1,14 @@
+name = "Beenfo"
+filename = "beenfo-1.16.5-fabric0.30.0-1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3193/545/beenfo-1.16.5-fabric0.30.0-1.3.jar"
+hash-format = "murmur2"
+hash = "1586618319"
+
+[update]
+[update.curseforge]
+file-id = 3193545
+project-id = 357256
+release-channel = "beta"

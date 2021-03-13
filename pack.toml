@@ -1,0 +1,12 @@
+name = "Tiny Tater Test servers (Adventure Pack)"
+author = "Tiny Tater Testers"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d7cb30559435caf7725d78b40126a1f72e8492e6940329075df3d92865ac5cff"
+
+[versions]
+fabric = "0.11.3"
+minecraft = "1.16.5"

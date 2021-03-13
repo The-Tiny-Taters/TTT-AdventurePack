@@ -1,0 +1,14 @@
+name = "ExtraDoors"
+filename = "ExtraDoors-1.8.2-1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3154/835/ExtraDoors-1.8.2-1.16.2.jar"
+hash-format = "murmur2"
+hash = "3353291083"
+
+[update]
+[update.curseforge]
+file-id = 3154835
+project-id = 341066
+release-channel = "beta"

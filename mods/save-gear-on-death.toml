@@ -1,0 +1,14 @@
+name = "Save Gear on Death"
+filename = "sgod-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3116/162/sgod-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3871021387"
+
+[update]
+[update.curseforge]
+file-id = 3116162
+project-id = 420907
+release-channel = "beta"

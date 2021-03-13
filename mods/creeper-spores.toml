@@ -1,0 +1,14 @@
+name = "Creeper Spores (For Fabric)"
+filename = "creeper-spores-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3032/77/creeper-spores-1.4.1.jar"
+hash-format = "murmur2"
+hash = "1828405599"
+
+[update]
+[update.curseforge]
+file-id = 3032077
+project-id = 331636
+release-channel = "beta"

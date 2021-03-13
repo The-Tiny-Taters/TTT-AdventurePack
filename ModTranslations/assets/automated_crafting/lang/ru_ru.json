@@ -1,0 +1,17 @@
+{
+  "text.autoconfig.automated_crafting.title": "Автоматическая настройка крафта",
+  "item.automated_crafting.auto_crafter": "Автоматизированный верстак",
+  "block.automated_crafting.auto_crafter": "Автоматизированный верстак",
+  "text.autoconfig.automated_crafting.option.simpleMode": "Включить простой режим",
+  "text.autoconfig.automated_crafting.option.simpleMode.@Tooltip": "Все изменения требуют перезагрузки",
+  "text.autoconfig.automated_crafting.option.quasiConnectivity": "Включить квази-подключение",
+  "text.autoconfig.automated_crafting.option.quasiConnectivity.@Tooltip": "Все изменения требуют перезагрузки",
+  "text.autoconfig.automated_crafting.option.redirectsRedstone": "Включить перенаправление пыли Redstone",
+  "text.autoconfig.automated_crafting.option.redirectsRedstone.@Tooltip": "Все изменения требуют перезагрузки",
+  "text.autoconfig.automated_crafting.option.craftContinuously": "Создавайте непрерывно, пока работает",
+  "text.autoconfig.automated_crafting.option.craftContinuously.@Tooltip": "Все изменения требуют перезагрузки",
+  "text.autoconfig.automated_crafting.option.comparatorReadsOutput": "Comparator reads 15 if output isn't empty",
+  "text.autoconfig.automated_crafting.option.comparatorReadsOutput.@Tooltip": "All changes require a restart",
+  "label.automated_crafting.template": "Template",
+  "label.automated_crafting.input": "Input"
+}

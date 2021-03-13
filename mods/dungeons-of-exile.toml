@@ -1,0 +1,14 @@
+name = "Dungeons of Exile"
+filename = "Dungeons-Of-Exile-1.16.3-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3095/365/Dungeons-Of-Exile-1.16.3-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3995335336"
+
+[update]
+[update.curseforge]
+file-id = 3095365
+project-id = 404445
+release-channel = "beta"

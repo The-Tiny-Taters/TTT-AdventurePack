@@ -1,0 +1,14 @@
+name = "ItemFlexer"
+filename = "itemflexer-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3154/458/itemflexer-1.1.3.jar"
+hash-format = "murmur2"
+hash = "2881976072"
+
+[update]
+[update.curseforge]
+file-id = 3154458
+project-id = 421147
+release-channel = "beta"

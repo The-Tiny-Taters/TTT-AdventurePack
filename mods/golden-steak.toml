@@ -1,0 +1,14 @@
+name = "Golden Steak"
+filename = "goldensteak-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3154/701/goldensteak-1.0.2.jar"
+hash-format = "murmur2"
+hash = "2493557936"
+
+[update]
+[update.curseforge]
+file-id = 3154701
+project-id = 431279
+release-channel = "beta"

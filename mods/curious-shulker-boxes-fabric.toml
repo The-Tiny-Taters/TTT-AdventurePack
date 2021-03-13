@@ -1,0 +1,14 @@
+name = "Curious Shulker Boxes (Fabric)"
+filename = "curiousshulkerboxes-fabric-1.1.1-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3175/618/curiousshulkerboxes-fabric-1.1.1-1.16.5.jar"
+hash-format = "murmur2"
+hash = "506133130"
+
+[update]
+[update.curseforge]
+file-id = 3175618
+project-id = 395570
+release-channel = "beta"

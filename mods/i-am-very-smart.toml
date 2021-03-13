@@ -1,0 +1,14 @@
+name = "I Am Very Smart (Fabric)"
+filename = "i-am-very-smart-2.1.0+mc1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2992/677/i-am-very-smart-2.1.0+mc1.16.1.jar"
+hash-format = "murmur2"
+hash = "2386279751"
+
+[update]
+[update.curseforge]
+file-id = 2992677
+project-id = 318163
+release-channel = "beta"

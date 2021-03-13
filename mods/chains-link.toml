@@ -1,0 +1,14 @@
+name = "Chains-Link"
+filename = "chains-link-1.16.2-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3070/600/chains-link-1.16.2-2.0.1.jar"
+hash-format = "murmur2"
+hash = "667590673"
+
+[update]
+[update.curseforge]
+file-id = 3070600
+project-id = 394903
+release-channel = "beta"

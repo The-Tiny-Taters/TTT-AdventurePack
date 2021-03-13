@@ -1,0 +1,14 @@
+name = "Better Dropped Items"
+filename = "betterdroppeditems-1.2.2-1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3053/420/betterdroppeditems-1.2.2-1.16.2.jar"
+hash-format = "murmur2"
+hash = "1087261291"
+
+[update]
+[update.curseforge]
+file-id = 3053420
+project-id = 350250
+release-channel = "beta"

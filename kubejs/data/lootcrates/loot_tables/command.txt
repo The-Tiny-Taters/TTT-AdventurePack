@@ -1,0 +1,1 @@
+/setblock ~ ~ ~ lootcrates:common_chest_loot_crate{LootTable:"lootcrates:test"}

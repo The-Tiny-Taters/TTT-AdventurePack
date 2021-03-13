@@ -1,0 +1,14 @@
+name = "Window Title Changer"
+filename = "window_title_changer-2.1.0-1.16.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3040/926/window_title_changer-2.1.0-1.16.2.jar"
+hash-format = "murmur2"
+hash = "1773728541"
+
+[update]
+[update.curseforge]
+file-id = 3040926
+project-id = 359527
+release-channel = "beta"

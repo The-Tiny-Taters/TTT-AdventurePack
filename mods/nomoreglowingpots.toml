@@ -1,0 +1,14 @@
+name = "NoMoreGlowingPots"
+filename = "nomoreglowingpots-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2923/534/nomoreglowingpots-1.0.2.jar"
+hash-format = "murmur2"
+hash = "2067232956"
+
+[update]
+[update.curseforge]
+file-id = 2923534
+project-id = 286348
+release-channel = "beta"
