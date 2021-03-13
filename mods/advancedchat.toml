@@ -1,6 +1,6 @@
 name = "AdvancedChat"
 filename = "AdvancedChat-2.1.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3209/903/AdvancedChat-2.1.1.jar"
