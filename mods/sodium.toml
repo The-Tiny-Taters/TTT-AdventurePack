@@ -7,6 +7,11 @@ url = "https://edge.forgecdn.net/files/3067/101/sodium-fabric-mc1.16.3-0.1.0.jar
 hash-format = "murmur2"
 hash = "1976364676"
 
+[option]
+optional = true
+description = "Sodium performance improvements (Should install Indium alongside)"
+default = false
+
 [update]
 [update.curseforge]
 file-id = 3067101
