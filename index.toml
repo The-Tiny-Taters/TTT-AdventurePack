@@ -6457,6 +6457,11 @@ hash = "b9531eea229153c70c968a250aa0d323b205ec747538758124c257f9a2f7c6c3"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "9a754d5a9a2307b4811f3ec51867f3eae452a843273abf294e6f734c77c79ec2"
+metafile = true
+
+[[files]]
 file = "mods/now-playing.toml"
 hash = "df37ce8bb504facf809bd49ab2bee35ce514626fa492f6c18f4c0a86c17b608f"
 metafile = true
