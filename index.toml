@@ -6297,6 +6297,11 @@ hash = "11195c4da6d954c2d7db647140c61f950237fb1a772e0943cfd49f7d51fbdff8"
 metafile = true
 
 [[files]]
+file = "mods/globalspawn.toml"
+hash = "72c0e27e93c2c54b3b997be11884f2b592cae85176fe89beefec7d06b9e480e9"
+metafile = true
+
+[[files]]
 file = "mods/go-fish.toml"
 hash = "d8386830187d47129066b829961bb827476e2aae457cdcbe49b8566042e9615d"
 metafile = true
@@ -6503,7 +6508,7 @@ metafile = true
 
 [[files]]
 file = "mods/pingspam.toml"
-hash = "ae8f4448f229d5b0e890ac2088c7bfb3661b56c6ff0026336c75f23e51044f7f"
+hash = "ce1b917c8ae9940bfc917a6f64546c4519d042ebdaf6ce1358a6ea969c58ba90"
 metafile = true
 
 [[files]]
@@ -6603,7 +6608,7 @@ metafile = true
 
 [[files]]
 file = "mods/starry-skies.toml"
-hash = "13c391cb4fa8e724836d51e0a3a9a389e7169720d0317ee6396d379ae00b4a4d"
+hash = "4ebd08a2fea5f6e00cbd6d5391d8a10d4de4a572b9f7cda1c7362a60a4e2e3c5"
 metafile = true
 
 [[files]]
@@ -6614,6 +6619,11 @@ metafile = true
 [[files]]
 file = "mods/territorial.toml"
 hash = "879cf44c1bafeb8c19c6715e82b6303eb825014acb32bca5d942f916f3b2a808"
+metafile = true
+
+[[files]]
+file = "mods/textile-backup.toml"
+hash = "f59c7f1aae0f7f24c9caebd6c890f5d0ad7aefc27a8f69a39a7da469e623d39c"
 metafile = true
 
 [[files]]
@@ -6662,7 +6672,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-border-fix.toml"
-hash = "3f2231bf2f91068bc38ecc15310685a3c244d115b2c27d9b04541df2a74fae38"
+hash = "8f5abfd3187abdee74dfc914878fe01415825e7ab47e13a3def8a0d27d9b256c"
 metafile = true
 
 [[files]]
