@@ -26,8 +26,6 @@ key:
 | Pingspam | BasiqueEvangelist | Modrinth | C&S | N/A | [link](https://modrinth.com/mod/pingspam) |
 | Fabric Loot Crates | DaFuqsy | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/fabric-loot-crates) |
 | Starry Skies | DaFuqsy | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/starry-skies) |
-| Global Spawn | DaFuqsy | Curse | C&S | N/A | [link](https://www.curseforge.com/minecraft/mc-mods/globalspawn) |
-| UnderFabric | Stonewall0210 | Modrinth | C&S | [link](https://modrinth.com/mod/underfabric) |
 | ~~Cheater Deleter~~ | ~~CoolMineman (ThatTrollzer)~~ | ~~Github~~ | ~~S~~ | ~~N/A (I think)~~ |~~[link](https://github.com/CoolMineman/CheaterDeleter/actions)~~ |
 
 * Dependencies that are included into a 'fat' jar or are not included, same goes for any of the fabric-api modules
