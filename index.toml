@@ -6508,7 +6508,7 @@ metafile = true
 
 [[files]]
 file = "mods/pingspam.toml"
-hash = "86b7c48e8c69858c824586a311b562600da905c402d51b1f485594e5b736ad1b"
+hash = "0b35c8cb051b944509d41e7f217304284dbe7301900d09590e37804ae848cabd"
 metafile = true
 
 [[files]]
@@ -6653,11 +6653,6 @@ metafile = true
 [[files]]
 file = "mods/true-darkness.toml"
 hash = "efafce0900914d8636b491680bf33d84aca9a1289b51bb1db8d2ab81440f033e"
-metafile = true
-
-[[files]]
-file = "mods/underfabric.toml"
-hash = "c4ec4b7d639aa837c3bddd19577e0380feb1a63d1cbe6ae1327cdc9af0431493"
 metafile = true
 
 [[files]]
