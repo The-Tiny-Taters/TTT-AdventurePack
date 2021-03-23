@@ -6656,6 +6656,11 @@ hash = "efafce0900914d8636b491680bf33d84aca9a1289b51bb1db8d2ab81440f033e"
 metafile = true
 
 [[files]]
+file = "mods/underfabric.toml"
+hash = "c4ec4b7d639aa837c3bddd19577e0380feb1a63d1cbe6ae1327cdc9af0431493"
+metafile = true
+
+[[files]]
 file = "mods/wall-jump-fabric.toml"
 hash = "03d6efaac5b8bb085f148168497364ab5f75190ac2ee86c86cfe3381b6942a70"
 metafile = true
