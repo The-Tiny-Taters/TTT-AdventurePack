@@ -1,6 +1,6 @@
 name = "Tiny Tater Test servers (Adventure Pack)"
 author = "Tiny Tater Testers"
-version = "1.1.1"
+version = "1.1.2"
 
 [index]
 file = "index.toml"
