@@ -6322,6 +6322,11 @@ hash = "9fbc6071d41bc0fbd4e7f9d106b7a1fbde35078b9d63ddeca4d7ef5eb10b6620"
 metafile = true
 
 [[files]]
+file = "mods/healthcare.toml"
+hash = "364ac56976f5e8e3f83e2c3eed18f4352fe24ca367321c40943054ca9ce2444a"
+metafile = true
+
+[[files]]
 file = "mods/heartbond-fabric.toml"
 hash = "fbfeed5da8be65eeca674ce9bd295b707c5d06c77ff6c97fb9221547176e048b"
 metafile = true

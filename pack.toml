@@ -1,11 +1,11 @@
 name = "Tiny Tater Test servers (Adventure Pack)"
 author = "Tiny Tater Testers"
-version = "1.2.2"
+version = "1.2.3"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8356d47b2569de8766cd21d1bb58c48ce82fe22fe715aa9579c4cfacf62b2e09"
+hash = "898d55277b9b4df736dadec335e68684fb8332a12eb31a6b7608a54d4b24ba2c"
 
 [versions]
 fabric = "0.11.3"
