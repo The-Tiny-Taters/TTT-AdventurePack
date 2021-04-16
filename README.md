@@ -1,3 +1,5 @@
+THIS PROJECT HAS BEEN ABANDONED
+
 # TTT-Adventure pack
 The Tiny Tater Test modpack using packwiz built on-top of The Adventure Pack
 **Discord server:** [link](https://discord.gg/YeXshh3sKE)
